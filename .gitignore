@@ -1,5 +1,8 @@
 .idea/*
 /venv/*
+
+*.pth
+
 node_modules/
 __pycache__/
 tags
