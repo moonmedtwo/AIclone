@@ -29,7 +29,7 @@ def genInstanceAndLabelMap(greyscale_fname, color_file):
     
 
 if __name__ == "__main__":
-    color_in_loc = 'img' + "/" + "surfboard_1.png"
+    color_in_loc = 'img' + "/" + "natural.png"
 
     out_img_loc = 'img_out/'
 
